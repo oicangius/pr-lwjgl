@@ -12,7 +12,7 @@ public class Game {
 	/** Game title */
 	public static final String GAME_TITLE = "My Game";
 	/** Desired frame time */
-	private static final int FRAMERATE = 60;
+	private static final int FRAMERATE = 50;
 	/** Exit the game */
 	private static boolean finished;
 	/** Angle of rotating square */
